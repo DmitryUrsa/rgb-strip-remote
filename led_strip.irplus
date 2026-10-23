@@ -1,0 +1,48 @@
+<irplus>
+  <device manufacturer="Generic" model="LED Strip" columns="2">
+    <button label="Brighter">FF3AC5</button>
+    <button label="Darker">FFBA45</button>
+    <button label="Play/Pause">FF827D</button>
+    <button label="Power">FF02FD</button>
+    <button label="Red">FF1AE5</button>
+    <button label="Green">FF9A65</button>
+    <button label="Blue">FFA25D</button>
+    <button label="White">FF22DD</button>
+    <button label="Red-Orange">FF2AD5</button>
+    <button label="Green-Aqua">FFAA55</button>
+    <button label="Blue-Purple">FF926D</button>
+    <button label="Pink 1">FF12ED</button>
+    <button label="Orange">FF0AF5</button>
+    <button label="Aqua">FF8A75</button>
+    <button label="Purple">FFB24D</button>
+    <button label="Pink 2">FF32CD</button>
+    <button label="Yellow-Orange">FF38C7</button>
+    <button label="Aqua-Cyan">FFB847</button>
+    <button label="Purple-Magenta">FF7887</button>
+    <button label="Sky Blue 1">FFF807</button>
+    <button label="Yellow">FF18E7</button>
+    <button label="Cyan">FF9867</button>
+    <button label="Magenta">FF58A7</button>
+    <button label="Sky Blue 2">FFD827</button>
+    <button label="Red Up">FF28D7</button>
+    <button label="Green Up">FFA857</button>
+    <button label="Blue Up">FF6897</button>
+    <button label="Quick">FFE817</button>
+    <button label="Red Down">FF08F7</button>
+    <button label="Green Down">FF8877</button>
+    <button label="Blue Down">FF48B7</button>
+    <button label="Slow">FFC837</button>
+    <button label="DIY 1">FF30CF</button>
+    <button label="DIY 2">FFB04F</button>
+    <button label="DIY 3">FF708F</button>
+    <button label="Auto">FFF00F</button>
+    <button label="DIY 4">FF10EF</button>
+    <button label="DIY 5">FF906F</button>
+    <button label="DIY 6">FF50AF</button>
+    <button label="Flash">FFD02F</button>
+    <button label="Jump 3">FF20DF</button>
+    <button label="Jump 7">FFA05F</button>
+    <button label="Fade 3">FF609F</button>
+    <button label="Fade 7">FFE01F</button>
+  </device>
+</irplus>
